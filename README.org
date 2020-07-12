@@ -1,0 +1,5 @@
+#+TITLE: Hi there 👋
+#+DATE: 2020-07-12
+#+STARTUP: showall
+
+Just testing using a README.org instead of the less capable README.md
