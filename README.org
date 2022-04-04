@@ -2,16 +2,17 @@
 #+DATE: 2020-07-12
 #+STARTUP: showall
 
-Just testing using a README.org instead of the less capable README.md
+This is my GitHub profile. There are many just like it, but this one
+is mine.
 
 # **eddieh/eddieh** is a ✨ _special_ ✨ repository because its
 # `README.md` (this file) appears on your GitHub profile.
 
 # Here are some ideas to get you started:
 
-# - 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [[https://github.com/eddieh/qui][QUI]] and [[https://github.com/pkgmgr/pkgmgr][pkgmgr]]
 # - 🌱 I’m currently learning ...
-# - 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on [[https://github.com/pkgmgr/pkgmgr][pkgmgr]] and [[https://github.com/objc-lang/objc-lang.org][objc-lang.org]]
 # - 🤔 I’m looking for help with ...
 # - 💬 Ask me about ...
 # - 📫 How to reach me: ...
