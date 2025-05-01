@@ -5,16 +5,8 @@
 This is my GitHub profile. There are many just like it, but this one
 is mine.
 
-# **eddieh/eddieh** is a ✨ _special_ ✨ repository because its
-# `README.md` (this file) appears on your GitHub profile.
+- 🎮 I’m currently working on [[https://github.com/SillyUtility/VirtualController][Virtual Controller]]
 
-# Here are some ideas to get you started:
+[[./VirtualControllerHeroImage.png]]
 
-- 🔭 I’m currently working on [[https://github.com/eddieh/qui][QUI]] and [[https://github.com/pkgmgr/pkgmgr][pkgmgr]]
-# - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on [[https://github.com/pkgmgr/pkgmgr][pkgmgr]] and [[https://github.com/objc-lang/objc-lang.org][objc-lang.org]]
-# - 🤔 I’m looking for help with ...
-# - 💬 Ask me about ...
-# - 📫 How to reach me: ...
-# - 😄 Pronouns: ...
-# - ⚡ Fun fact: ...
+[[https://github.com/SillyUtility/VirtualController][Check it out]]
